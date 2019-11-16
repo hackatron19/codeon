@@ -1,0 +1,1 @@
+This initial python file is based on analyis of the uncleaned disease to symptoms dataset. We are cleaning the dataset to make it more useable for the end user and then we are begining to analyse it. 
