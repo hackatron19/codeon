@@ -1,1 +1,2 @@
 This initial python file is based on analyis of the uncleaned disease to symptoms dataset. We are cleaning the dataset to make it more useable for the end user and then we are begining to analyse it. 
+The second python file is using the google api places for finding out the nearest hospital around that person periphery when that person gets diagnosed by disease. He/She will be reffered to the nearest hospital around him/her. 
